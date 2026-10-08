@@ -1106,3 +1106,592 @@ Memory consumption went from 151.7 MB to 148.4 MB.
 Total: 12.275750 ms (FindLiveObjects: 0.715667 ms CreateObjectMapping: 0.719375 ms MarkObjects: 9.159291 ms  DeleteObjects: 1.680709 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 1.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6177 unused Assets / (2.9 MB). Loaded Objects now: 7106.
+Memory consumption went from 144.9 MB to 142.0 MB.
+Total: 65.615917 ms (FindLiveObjects: 2.903209 ms CreateObjectMapping: 0.501083 ms MarkObjects: 58.782333 ms  DeleteObjects: 3.425166 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 616.052151 seconds.
+  path: Assets/Scripts/WorldStates.cs
+  artifactKey: Guid(b8ada818269af45d0b63cfa727750b8b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/WorldStates.cs using Guid(b8ada818269af45d0b63cfa727750b8b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '22f7ae60efb21b860e52d0b1e605262b') in 0.147077667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Scripts/GAction.cs
+  artifactKey: Guid(19b59c86748e748df9996113c40d40b4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/GAction.cs using Guid(19b59c86748e748df9996113c40d40b4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '49a8df2b581fe61c4cfcd7f2b029cf6b') in 0.003370625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/BasicWorkingHospital.unity
+  artifactKey: Guid(3f26263761fa6448d81f61d2140bcd01) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasicWorkingHospital.unity using Guid(3f26263761fa6448d81f61d2140bcd01) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f56065881fc180984ea2c24ecdf5ef90') in 0.011641625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6178 unused Assets / (3.2 MB). Loaded Objects now: 7107.
+Memory consumption went from 145.0 MB to 141.8 MB.
+Total: 16.629084 ms (FindLiveObjects: 0.597125 ms CreateObjectMapping: 0.617167 ms MarkObjects: 13.566917 ms  DeleteObjects: 1.847250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.528583 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15e6aa8f2b87e5343cccee7c24f7d752') in 0.005396917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.113758 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ac5b0fa8a93c241d8b160043fe851b12') in 0.011148833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: E4-DBUH-QKTY-V8AZ-2FZA-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2027-03-06T23:46:27Z
+[Licensing::Module] License group:
+  Id: 6872783040574-inesna-UnityProStuXXXX
+  Product: Unity Student
+  Type: Assigned
+  Expiration: 2027-09-28T14:48:01Z
+Thread 0x16da93000 may have been prematurely finalized
+- Loaded All Assemblies, in  2.160 seconds
+Refreshing native plugins compatible for Editor in 2.84 ms, found 1 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.941 seconds
+Domain Reload Profiling: 5110ms
+	BeginReloadAssembly (662ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (28ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (166ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (1372ms)
+		LoadAssemblies (1122ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (586ms)
+			TypeCache.Refresh (79ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (473ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (2942ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2290ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (830ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (207ms)
+			ProcessInitializeOnLoadAttributes (1031ms)
+			ProcessInitializeOnLoadMethodAttributes (208ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (49ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6184 unused Assets / (3.0 MB). Loaded Objects now: 7110.
+Memory consumption went from 151.6 MB to 148.6 MB.
+Total: 31.411083 ms (FindLiveObjects: 1.373417 ms CreateObjectMapping: 2.683833 ms MarkObjects: 25.215541 ms  DeleteObjects: 2.137833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 18.343033 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.008396916 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.157562 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.003621833 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0008645 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040076 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000862125 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.148406 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000619958 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067106 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000380334 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070621 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000442958 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.180085 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000729417 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048855 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000565792 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073209 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000573833 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070199 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000600084 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072778 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00050125 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.177340 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000565667 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165822 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00072525 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150568 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000559209 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066222 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000469625 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073156 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00068025 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.175122 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000962125 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.166713 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000653667 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062061 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.001445209 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072478 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000412958 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.175443 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000578625 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070874 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000426 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073077 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000525959 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178173 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000612208 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165990 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000724125 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164352 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000867708 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.161609 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000585375 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065798 seconds.
+  path: Assets/Scripts/GPlanner.cs
+  artifactKey: Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GPlanner.cs using Guid(3355531bc7a534212b6b0b4a37932eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000535625 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+  ERROR: Build asset version error: assets/scripts/gplanner.cs in SourceAssetDB has modification time of '2026-10-08T14:11:25Z' while content on disk has modification time of '2026-10-08T14:11:34Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d567000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.284 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Native extension for iOS target not found
+2026-10-08 15:11:57.696 Unity[37024:1935632] [XcodeApplications] Failed to read NSDictionary from path ȩ-s/Contents/Info.plist
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.948 seconds
+Domain Reload Profiling: 2236ms
+	BeginReloadAssembly (418ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (154ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (26ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (739ms)
+		LoadAssemblies (625ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (269ms)
+			TypeCache.Refresh (48ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (203ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (949ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (697ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (124ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (143ms)
+			ProcessInitializeOnLoadAttributes (346ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (21ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6184 unused Assets / (3.6 MB). Loaded Objects now: 7113.
+Memory consumption went from 151.4 MB to 147.8 MB.
+Total: 14.617750 ms (FindLiveObjects: 1.285167 ms CreateObjectMapping: 0.511666 ms MarkObjects: 10.126708 ms  DeleteObjects: 2.693750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d567000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.053 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.920 seconds
+Domain Reload Profiling: 1977ms
+	BeginReloadAssembly (291ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (94ms)
+	RebuildCommonClasses (57ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (645ms)
+		LoadAssemblies (481ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (273ms)
+			TypeCache.Refresh (28ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (224ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (920ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (691ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (33ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (233ms)
+			ProcessInitializeOnLoadAttributes (353ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6184 unused Assets / (3.3 MB). Loaded Objects now: 7116.
+Memory consumption went from 151.4 MB to 148.0 MB.
+Total: 15.885416 ms (FindLiveObjects: 0.751917 ms CreateObjectMapping: 1.005542 ms MarkObjects: 11.844292 ms  DeleteObjects: 2.282958 ms)
+
+Prepare: number of updated asset objects reloaded= 0
