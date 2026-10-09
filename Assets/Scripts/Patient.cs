@@ -1,16 +1,11 @@
 using UnityEngine;
 
-public class Patient : MonoBehaviour
-{
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+public class Patient : GAgent {
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    protected override void Start() {
+
+        base.Start();
+        SubGoal s1 = new SubGoal("isWaiting", 1, true);
+        goals.Add(s1, 3);
     }
 }
