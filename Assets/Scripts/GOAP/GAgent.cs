@@ -1,112 +1,58 @@
+using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.AI;
 
-public class SubGoal {
+public abstract class GAction : MonoBehaviour
+{
+    public string actionName = "Action";
+    public float cost = 1.0f;
+    public GameObject target;
+    public string targetTag;
+    public float duration = 0;
+    public WorldState[] preConditions;
+    public WorldState[] afterEffects;
+    public NavMeshAgent agent;
+    public Dictionary<string, int> preconditions;
+    public Dictionary<string, int> effects;
+    public WorldStates agentBeliefs;
+    public GInventory inventory;
+    public bool running = false;
 
-    public Dictionary<string, int> sGoals;
-    public bool remove;
-
-    public SubGoal(string s, int i, bool r) {
-
-        sGoals = new Dictionary<string, int>();
-        sGoals.Add(s, i);
-        remove = r;
-    }
-}
-
-public class GAgent : MonoBehaviour {
-
-    public List<GAction> actions = new List<GAction>();
-    public Dictionary<SubGoal, int> goals = new Dictionary<SubGoal, int>();
-
-    GPlanner planner;
-    Queue<GAction> actionQueue;
-    public GAction currentAction;
-    SubGoal currentGoal;
-
-    protected virtual void Start() {
-
-        GAction[] acts = this.GetComponents<GAction>();
-
-        foreach (GAction a in acts) { 
-        
-            actions.Add(a);
-        }
+    public GAction()
+    {
+        preconditions = new Dictionary<string, int>();
+        effects = new Dictionary<string, int>();
     }
 
-    bool invoked = false;
+    public void Awake()
+    {
+        agent = this.gameObject.GetComponent<NavMeshAgent>();
 
-    void CompleteAction() {
-
-        currentAction.running = false;
-        currentAction.PostPerform();
-        invoked = false;
-    }
-
-    void LateUpdate() {
-
-        if (currentAction != null && currentAction.running) {
-
-            if (currentAction.agent.hasPath && currentAction.agent.remainingDistance < 1.0f) {
-
-                if (!invoked) {
-
-                    Invoke("CompleteAction", currentAction.duration);
-                    invoked = true;
-                }
-            }
-            return;
-        }
-
-        if (planner == null || actionQueue == null) { 
-        
-            planner = new GPlanner();
-
-            var sortedGoals = from entry in goals orderby entry.Value descending select entry;
-
-            foreach (KeyValuePair<SubGoal, int> sg in sortedGoals) {
-
-                actionQueue = planner.plan(actions, sg.Key.sGoals, null);
-
-                if (actionQueue != null) {
-
-                    currentGoal = sg.Key;
-                    break;
-                }
+        if (preConditions != null)
+        {
+            foreach (WorldState w in preConditions)
+            {
+                preconditions.Add(w.key, w.value);
             }
         }
 
-        if (actionQueue != null && actionQueue.Count == 0) {
-
-            if (currentGoal.remove) {
-
-                goals.Remove(currentGoal);
-            }
-            planner = null;
-        }
-
-        if (actionQueue != null && actionQueue.Count > 0) {
-
-            currentAction = actionQueue.Dequeue();
-
-            if (currentAction.PrePerform()) {
-
-                if (currentAction.target == null && currentAction.targetTag != "") {
-
-                    currentAction.target = GameObject.FindWithTag(currentAction.targetTag);
-                }
-
-                if (currentAction.target != null) {
-
-                    currentAction.running = true;
-                    currentAction.agent.SetDestination(currentAction.target.transform.position);
-                }
-            } else {
-
-                actionQueue = null;
+        if (afterEffects != null)
+        {
+            foreach (WorldState w in afterEffects)
+            {
+                effects.Add(w.key, w.value);
             }
         }
+
+        inventory = this.GetComponent<GAgent>().inventory;
     }
+
+    public bool IsAchievable()
+    {
+        return true;
+    }
+
+    public abstract bool PrePerform();
+    public abstract bool PostPerform();
 }
