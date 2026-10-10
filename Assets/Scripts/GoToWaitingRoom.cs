@@ -11,8 +11,8 @@ public class GoToWaitingRoom : GAction
 
     public override bool PostPerform()
     {
-        // Modifica o estado global do mundo incrementando 1 paciente à espera
         GWorld.Instance.GetWorld().ModifyState("Waiting", 1);
+        GWorld.Instance.AddPatient(this.gameObject);
         return true;
     }
 }
